@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Esfera : MonoBehaviour
 {
     Rigidbody RB;
@@ -24,4 +25,6 @@ public class Esfera : MonoBehaviour
             Debug.Log("llegaste a la meta");
         }
     }
+
+   
 }
